@@ -1,0 +1,79 @@
+[
+    {
+        "isim": "Bilgisayar",
+        "yil": "2018",
+        "fiyat": "2000",
+        "renk": "Siyah"
+
+    },
+    {
+        "isim": "Telefon",
+        "yil": "2018",
+        "fiyat": "1500",
+        "renk": "Gri"
+
+    },
+    {
+        "isim": "Tablet",
+        "yil": "2017",
+        "fiyat": "q000",
+        "renk": "Yesil"
+
+    },
+    {
+        "isim": "Buzdolabi",
+        "yil": "2015",
+        "fiyat": "4000",
+        "renk": "Beyaz"
+
+    },
+    {
+        "isim": "Firin",
+        "yil": "2014",
+        "fiyat": "3500",
+        "renk": "Kahverengi"
+
+    },
+    {
+        "isim": "Camasir Makinasi",
+        "yil": "2016",
+        "fiyat": "4500",
+        "renk": "Beyaz"
+
+    },
+    {
+        "isim": "Sac Kurutma Makinasi",
+        "yil": "2018",
+        "fiyat": "800",
+        "renk": "Kirmizi"
+
+    },
+    {
+        "isim": "Hoparlor",
+        "yil": "2018",
+        "fiyat": "300",
+        "renk": "Yesi"
+
+    },
+    {
+        "isim": "Sarj Adaptoru",
+        "yil": "2018",
+        "fiyat": "100",
+        "renk": "Siyah"
+
+    },
+    {
+        "isim": "Usb Aleti",
+        "yil": "2010",
+        "fiyat": "20",
+        "renk": "Gri"
+
+    },
+    {
+        "isim": "Monitor",
+        "yil": "2015",
+        "fiyat": "200",
+        "renk": "Beyaz"
+
+    }
+]
